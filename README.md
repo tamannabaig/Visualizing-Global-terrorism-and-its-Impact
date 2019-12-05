@@ -4,3 +4,5 @@ Dataset was too large to upload directly on github, hence a link to the drive is
 EDA.ipynb -> Jupyter notebook used to perform exploratory data analysis on the initial dataset, uses (gtd.csv)
 gtd_Global.twb, gtd_India.twb, gtd_USA.twb -> Final Tableau workbooks 
 FinalReport.pdf -> A detailed report addressing all the requirements asked
+
+My Tableau public profile can be found at https://public.tableau.com/profile/tamanna.baig#!/
